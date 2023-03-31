@@ -1,9 +1,13 @@
-### Hi there 👋
-
+### Hi I'm 萌动小彩笔 👋
+- 🌱 I’m currently learning everything
+- 💬 Ask me about 
+  - Android
+  - Kotlin
+  - Flutter
+- 😄 Pronouns: Persist in what you love
 <!--
-**smallmarker/smallmarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fuergaosi233/fuergaosi233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallmarker&show_icons=true&theme=radical)
